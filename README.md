@@ -1,18 +1,20 @@
-#Kata Life 
+# Kata Life 
 
 ## Antes de empezar
 - Unity 2018.4.16f1
 - [Twitch Link](https://www.twitch.tv/videos/681730266)
-- [Youtube Link]()
+- Youtube Link
 
 ## Descripción
 
-El objetivo de esta Kata es aprender y practicar la técnica de Desarrollo Guiado por Pruebas, mejor conocido como TDD (Test-driven development)
-Vas a programar una barra de vida de un jugador, que se le pueda por ejemplo sumar o restar vida.
-Por favor tener en cuenta Clean Code, DRY y KISS en cada iteración
-Restricciones
-Escribe el mejor código que puedas, pero que sea simple.
-No hagas más de lo que pide cada iteración.
+El objetivo de esta Kata es aprender y practicar la técnica de Desarrollo Guiado por Pruebas, mejor conocido como TDD (Test-driven development).
+Vas a programar una barra de vida de un jugador, que se le pueda, por ejemplo, sumar o restar vida.
+
+Por favor tener en cuenta *Clean Code*, *DRY* y *KISS* en cada iteración.
+
+#### Restricciones
+* Escribe el mejor código que puedas, pero que sea simple.
+* No hagas más de lo que pide cada iteración.
 
 ## Primera iteración:
 Se puede sumar y restar vida a la barra del jugador. El mínimo es 0 y el máximo es 100. Empieza en 100.
