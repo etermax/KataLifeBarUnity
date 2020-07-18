@@ -9,9 +9,17 @@ namespace Core
         private const int SPECIAL_HEAL = 50;
 
         public int CurrentValue = MAX_VALUE;
-    
+
+        private bool _hasShield;
+
         public void ReceiveDamage(int amount)
         {
+            if (_hasShield)
+            {
+                _hasShield = false;
+                return;
+            }
+            
             CurrentValue = Mathf.Max(MIN_VALUE, CurrentValue - amount);
         }
 
@@ -21,6 +29,11 @@ namespace Core
                 return;
             
             CurrentValue = Mathf.Min(MAX_VALUE, CurrentValue + amount);
+        }
+        
+        public void ReceiveShield()
+        {
+            _hasShield = true;
         }
         
         public void ReceiveSpecialHeal()
