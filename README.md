@@ -3,7 +3,7 @@
 ## Antes de empezar
 - Unity 2018.4.16f1
 - [Twitch Link](https://www.twitch.tv/videos/681730266)
-- Youtube Link
+- [Youtube Link](https://www.youtube.com/watch?v=jqWzNBGKzJQ)
 
 ## Descripción
 
