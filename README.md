@@ -3,7 +3,7 @@
 ## Antes de empezar
 - Unity 2018.4.16f1
 - [Twitch Link](https://www.twitch.tv/videos/681730266)
-- [Youtube Link](https://www.youtube.com/watch?v=jqWzNBGKzJQ)
+- [YouTube Link](https://www.youtube.com/watch?v=jqWzNBGKzJQ)
 
 ## Descripción
 
@@ -33,6 +33,7 @@ El jugador puede estar envenenado y esto hace que cada ataque sea x2.
 
 ## Bibliografía complementaria
 - [TDD in Unity using MVP](https://engineering.etermax.com/how-to-tdd-in-unity-using-the-mvp-pattern-a646ffbe996f) 
-- Pair Programming
-- TDD
-- Clean Code
+- [Pair Programming] (https://martinfowler.com/articles/on-pair-programming.html)
+- [TDD] (https://www.paradigmadigital.com/techbiz/tdd-una-metodologia-gobernarlos-todos/)
+- [TDD] (https://www.guru99.com/test-driven-development.html)
+- [Clean Code] (https://www.amazon.com/-/es/Robert-C-Martin/dp/0132350882)
